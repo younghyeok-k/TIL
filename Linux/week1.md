@@ -44,6 +44,7 @@ Take Snapshot
 snapshot 이름에 체크하면 복구 된다
 kali,centos 다하기
 
+----------------------
 
 ### 명령어
 
