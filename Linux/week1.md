@@ -151,6 +151,6 @@ DNS(도메인주소를 이용해서 IP주소를 가져온다)
  -google:8.8.8.8, 8.8.4.4
 
 
-- 예시) http://www.naver.com ->1.1.1.1 (IP 전달)
+예시) http://www.naver.com ->1.1.1.1 (IP 전달)
 
 나머지는 공인IP이다.
