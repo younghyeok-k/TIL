@@ -5,4 +5,4 @@
 >찾기 쉽도록 해당 카테고리가 N개면 N개 모두에 추가
 ----------------------------------------------------------------------------------------------------------------------
 ### Linux
-* Linux week1: [1일차](https://github.com/younghyeok-k/TIL/blob/main/Linux/week1.md)
+* [Linux day1](https://github.com/younghyeok-k/TIL/blob/main/Linux/week1.md)
