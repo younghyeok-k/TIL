@@ -36,9 +36,9 @@ shell (쉘) : 명령어 해석기,연결
 ### 2.리눅스 설치(Rocky)   
    
 ----------------------
- -Rocky Linux   
- -파일시스템   
- -파티션 설정   
+ Rocky Linux   
+ 파일시스템   
+ 파티션 설정   
  순서
 -----------------------   
 File new Vitualmachine   
