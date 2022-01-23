@@ -6,3 +6,4 @@
 ----------------------------------------------------------------------------------------------------------------------
 ### Linux
 * [Linux Day1](https://github.com/younghyeok-k/TIL/blob/main/Linux/week1.md)
+* [Linux Day2](https://github.com/younghyeok-k/TIL/blob/main/Linux/week1-2.md)
