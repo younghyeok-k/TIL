@@ -62,8 +62,6 @@
 | dirs   | 디렉터리 스택에 저장된 내용을 표시한다.  | 
 | pushd   | 디렉터리 스택에 디렉터리를 저장한다.  | 
 | popd   | 디렉터리 스택에서 마지막에 저장한 디렉터리 삭제후 이동   | 
-| startx   | 아이템5  | 
-| startx   | 아이템5  | 
 
 
 
@@ -71,14 +69,17 @@
 
 ###Linux 기초 명칭
 ---------------------------------------------------
+| 명령 | 설명 | 
+|---------|---------|
+| CLI(Command Line Interface)| 명령어 기반의 텍스트 입출력 인터페이스  | 
+| 터미널   | 서버의 로컬 또는 원격으로 접속할 수 있는 콘솔을 구현한 소프트웨어  | 
+| 쉘   | 명령어를 해석하여 전달해주는 소프트웨어  | 
+| 콘솔   | 서버의 로컬 장치에서 직접 명령어를 작성할 수 있는 입출력 장치  | 
+| tty(Tele Type Writer)   | 콘솔 및 터미널 환경  | 
+| pty(Pseudo-Terminal)   |  가상 터미널 환경 | 
+| pts(Pseudo-Terminal Slave)   | 원격 터미널 환경  | 
+| startx   | 아이템5  | 
 
-CLI (Command Line Interface):명령어 기반의 텍스트 입출력 인터페이스
-터미널:서버의 로컬 또는 원격으로 접속할 수 있는 콘솔을 구현한 소프트웨어
-쉘:명령어를 해석하여 전달해주는 소프트웨어
-콘솔:서버의 로컬 장치에서 직접 명령어를 작성할 수 있는 입출력 장치
-tty(Tele Type Writer):콘솔 및 터미널 환경
-pty(Pseudo-Terminal):가상 터미널 환경
-pts(Pseudo-Terminal Slave):원격 터미널 환경
 
 
 ### VI 명령어 
@@ -88,6 +89,11 @@ pts(Pseudo-Terminal Slave):원격 터미널 환경
 [root@localhost roror]# source ~/.bashrc
 [root@localhost roror]# vi /etc/passwd
 
+
+| 명령 | 설명 || 명령 | 설명 |  
+|---------|---------||---------|---------|
+| startx   | 아이템5  || startx   | 아이템5  | 
+| startx   | 아이템5  || startx   | 아이템5  |  
 [커서 이동하기]
 h :커서를 왼쪽으로 이동	 }:다음 문단의 처음으로 이동
 j:커서를 아래로 이동		H:화면의 첫 줄로 이동
