@@ -12,4 +12,4 @@
 * [JAVA Day1](https://github.com/younghyeok-k/TIL/blob/main/JAVA/test1.md)
 
 ### Kotlin
-* [Kotlin Day1](https://github.com/younghyeok-k/TIL/blob/main/JAVA/test1.md)
+* [Kotlin Day1](https://github.com/younghyeok-k/TIL/blob/main/Kotlin/Kotlinday1.md)
