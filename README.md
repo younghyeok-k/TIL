@@ -13,3 +13,4 @@
 
 ### Kotlin
 * [Kotlin Day1](https://github.com/younghyeok-k/TIL/blob/main/Kotlin/Kotlinday1.md)
+* [Kotlin Day2](https://github.com/younghyeok-k/TIL/blob/main/Kotlin/Kotlinday2.md)
