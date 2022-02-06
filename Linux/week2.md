@@ -60,7 +60,7 @@ ls -d 디렉토리 정보출력
 
 ~(홈디렉토리)    
 cd (홈디렉토리 경로없을경우)    
->리다이렉션(출력을 변경) --> 파일로 변경    
+리다이렉션  > (출력을 변경) --> 파일로 변경    
 [root@localhost ~]# echo "ls" > cat  (현재경로에 cat 파일을 생성)    
 [root@localhost ~]# chmod 777 ./cat  (cat 파일의 권한 변경)    
 -rwx rwx rwx 7 7 7 읽고쓰고실행하고(x실행,windows .ext 파일과 똑같다)    
