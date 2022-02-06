@@ -168,7 +168,7 @@ LVM 으로선택
 #cat ./data.txt 파일출력   
 my data   
 2)   
-# vi ./data2.txt  파일출력   
+#vi ./data2.txt  파일출력   
 i 누르고    
 my data 쓰고   
 esc 후    
@@ -180,7 +180,7 @@ my data
 my data  글쓰고   
 my data2   
 EOF 쓰면 빠져나감   
-# cat ./data3.txt  파일출력   
+#cat ./data3.txt  파일출력   
 
 ## 다시보기 + 명령어
 -------------------------------------
