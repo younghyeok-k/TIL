@@ -164,8 +164,8 @@ LVM 으로선택
 ----------------------------------
 
 1)   
-# echo "my data" > data.txt (파일이 생성)   
-# cat ./data.txt 파일출력   
+#echo "my data" > data.txt (파일이 생성)   
+#cat ./data.txt 파일출력   
 my data   
 2)   
 # vi ./data2.txt  파일출력   
