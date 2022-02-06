@@ -163,11 +163,11 @@ LVM 으로선택
 ## cat 파일 출력
 ----------------------------------
 
-1)   
+[1]   
 #echo "my data" > data.txt (파일이 생성)   
 #cat ./data.txt 파일출력   
 my data   
-2)   
+[2] 
 #vi ./data2.txt  파일출력   
 i 누르고    
 my data 쓰고   
@@ -175,7 +175,7 @@ esc 후
 :wq 저장하고 나오기   
 #cat ./data2.txt 파일출력   
 my data   
-3)   
+[3]   
 #cat > ./data3.txt << EOF (하나의 명령어, 암기,EOF 종료한다)   
 my data  글쓰고   
 my data2   
