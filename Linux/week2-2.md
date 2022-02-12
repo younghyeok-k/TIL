@@ -74,9 +74,9 @@ cd e tap 키누르면 etc 완성된다
    
 /etc/fstab (부팅시 마운트(하드디스크 인식)설정)   
    
-# df   
-# fdisk -l   
-# lsblk   
+#df   
+#fdisk -l   
+#lsblk   
    
 [root@localhost etc]# df | awk '{print $q}'   
 
