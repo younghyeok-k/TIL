@@ -57,8 +57,8 @@ nmcli c up ens33
       
 | grep      
       
-# ls /etc |grep ssh = ssh이름 찾기      
-# ls /etc |grep yum = yum이름 찾기      
+#ls /etc |grep ssh = ssh이름 찾기      
+#ls /etc |grep yum = yum이름 찾기      
       
       
 > 출력 리다이렉션      
