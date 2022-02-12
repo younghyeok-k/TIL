@@ -54,3 +54,60 @@ nmcli c up ens33
     
 ## 입출력 재지정(I/O Redirection): |,>,>>,<,<< p28    
 ----------------------
+      
+| grep      
+      
+# ls /etc |grep ssh = ssh이름 찾기      
+# ls /etc |grep yum = yum이름 찾기      
+      
+      
+> 출력 리다이렉션      
+#ls -l/etc > ./etc_ls.txt  (파일생성)       
+ - ls -l /etc 의 출력값을 etc_ls 파일로 저장      
+ - ls /etc > ./etc_list (결과값? 덮어쓰기가 된다.)      
+      
+      
+[root@localhost /]# ls -l | tail -3 > ./etc_ls.txt      
+[root@localhost /]# cat ./etc_ls.txt      
+drwxrwxrwt.  21 root root 4096  2월 13 03:59 tmp      
+drwxr-xr-x.  13 root root  158  2월  6 04:55 usr      
+drwxr-xr-x.  21 root root 4096  2월  6 05:08 var      
+[root@localhost /]# ls -l | head -3 > ./etc_ls.txt      
+      
+>> 출력 (끼워넣기)      
+ - ls /etc >> ./etc_list       
+[root@localhost /]# ls -l | head -3 >> ./etc_ls.txt      
+[root@localhost /]# cat ./etc_ls.txt      
+합계 24      
+lrwxrwxrwx.   1 root root    7 10월 11 09:48 bin -> usr/bin      
+dr-xr-xr-x.   5 root root 4096  2월  6 05:08 boot      
+합계 28      
+lrwxrwxrwx.   1 root root    7 10월 11 09:48 bin -> usr/bin      
+dr-xr-xr-x.   5 root root 4096  2월  6 05:08 boot      
+      
+      
+#cat >./test.txt  (입력받아서 test.txt 파일을 만든다)      
+12312      
+123123      
+cat ./test.txt      
+12312      
+123123      
+      
+echo 출력      
+#echo "ls" > ./dir  (현재있는위치에 dir 을만들고 "ls" 를 넣는다)         
+#chmod 777 ./dir (dir 색 바꿈)      
+      
+#cat/etc/passwd 패스워드 파일의 내용을 출력(모니터)      
+#cat/etc/passwd > /home/roror/passwd (파일로 출력)      
+#cat < ./passwd > ./passwd2      
+      
+      
+< 입력      
+#cat < ./etc_ls.txt > ./ttt (etc_ls.txt 를 입력받아서 ./ttt(파일생성후 ) 에 출력한다 )      
+      
+      
+#cp ./etc_ls.txt ./etc_ls.txt.old      
+      
+
+<< 입력 (끼워넣기)      
+
