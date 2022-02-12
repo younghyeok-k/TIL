@@ -24,7 +24,7 @@ which/whereis/whatis ls(명령어 설명)
   192.168.200.0/24      
   192.168.50.0/24      
    
-### 집에서 해봐야할꺼   
+### 집에서 해봐야할꺼   (하기전에 snapshot 찍기)
 ----------------------         
 VM 세팅에서 IP설정에서 NAT 을 브릿지로 바꾸고      
 
@@ -51,5 +51,6 @@ nmcli c modify ens33 autoconnect yes
       
 nmcli c down ens33      
 nmcli c up ens33      
-      
+    
+## 입출력 재지정(I/O Redirection): |,>,>>,<,<< p28    
 ----------------------
