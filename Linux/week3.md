@@ -186,4 +186,6 @@ Sticky bit --> 1000 --> other 가 rwt 로변경된다
 #ls -l ./passwd   
 -rwsrwxrwx. 1 root root 2548  2월 13 05:31 ./passwd   
 
+roror 사용자가 패스워드 변경시
+roror 사용자는 /usr/bin/passwd 실행시 root 권한이 자동으로 작동한다.
 
