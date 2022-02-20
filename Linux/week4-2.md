@@ -51,7 +51,8 @@ head/tail/more/less
 hlat/poweroff/init 0 /sutdown -h now (일반사용자가 사용할 수 없도록 설정)   
 reboot /init 6/shutdown -r now (sync 동기화)   
 
-   
+
+-----------------------------------------------------
 APM --> 서버에 프로그램 설치시 /etc/profile   
 /PATH (찾는거) n 다음으로넘어가기   
    
@@ -68,10 +69,13 @@ APM --> 서버에 프로그램 설치시 /etc/profile
 .bash_history (사용자의 히스티 값)   
 .bash_logout (사용자 로그아웃 설정 파일)   
    
-alias 명령어 만들기   
+## alias 명령어 만들기   
+------------------------------------------------------------------
+```
 #alias net='ls /etc/sysconfig/network-scripts'v
 [root@localhost ~]# netv
 ifcfg-ens33   
+````
    
 /bin/vi/etc/passwd (root 기본적용 ,보안을 위해)   
 .bashrc 에 alias vu= 'vim' 설정후 source ~./bashrc 실행하면 vi를 사용해도 vim /etc/passwd 처럼 실행된다   
