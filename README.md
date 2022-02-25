@@ -13,6 +13,8 @@
 * [Linux Day5](https://github.com/younghyeok-k/TIL/blob/main/Linux/week3.md)
 * [Linux Day6](https://github.com/younghyeok-k/TIL/blob/main/Linux/week4.md)
 * [Linux Day7](https://github.com/younghyeok-k/TIL/blob/main/Linux/week4-2.md)
+* [Linux Day8](https://github.com/younghyeok-k/TIL/blob/main/Linux/week5.md)
+
 
 ### JAVA
 * [JAVA Day1](https://github.com/younghyeok-k/TIL/blob/main/JAVA/test1.md)
