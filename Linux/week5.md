@@ -133,9 +133,12 @@ ip v6 다삭제
 실무상황일때      
 회사에서 서버 설정 (DHCP Server 에 접속)   
  1) 리눅스 설치 (Network 사용 체크하지 않음)   
- 2) #nmcli c modify bond0 autoconnect yes (자동으로 ip 할당)   
+ 2)
+ ```
+ #nmcli c modify bond0 autoconnect yes (자동으로 ip 할당)   
    참고) # cat /etc/sysconifg/netwokr-scripts/ens-* (내용중 ONBOOT=YES)   
 		# nmcli c modify bond0 ipv4.method  (위의 파일에서 BOOTPROTO=dhcp)   
+```
  3)IP/NETMASK/GATEWAY/DNS 자동으로 받으니 확인 가능   
 회사에서 서버 설정(수동으로설정시) 회사에서 부여해준다.   
    
