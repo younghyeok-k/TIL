@@ -1,21 +1,5 @@
 # week5
-#리눅스 순서
------------------
-1.네트워크(nmcli 및 본딩)   
-  - 가상(충돌)   
-2.DHCP 서버 구축   
-3.LVM/ 일반 파티션    
-  -Quota   
-   
-4.인증서설치,Apache,PHP,MySQL (게시판, gnuboard,wordpress,zeroboard)   
-5.DNS Server 구축   
-6.SAMBA/NFS 구축   
-7.메일서버    
-8.APM(Source) ,board   
-9.SSH/FTP Secure   
-   
-## -VM nat 설정
-# week5
+
 #리눅스 순서
 -----------------
 1.네트워크(nmcli 및 본딩)   
