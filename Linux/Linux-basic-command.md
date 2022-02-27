@@ -84,11 +84,11 @@
 
 ### VI 명령어 
 ---------------------------------------------------
-
+```
 [root@localhost roror]# echo "vi='vim'" >> ~/.bashrc   
 [root@localhost roror]# source ~/.bashrc   
 [root@localhost roror]# vi /etc/passwd   
-
+```
 #### 커서 이동하기
 | 명령 | 설명 | 명령 | 설명 |  
 |---------|---------|---------|---------|
