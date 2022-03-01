@@ -40,6 +40,7 @@ shell (쉘) : 명령어 해석기,연결
  파일시스템   
  파티션 설정   
  순서
+ 
 -----------------------   
 File new Vitualmachine   
 custom   
@@ -104,15 +105,17 @@ shift + space 누르면 한영키 바뀜
 -----------------------
  -VI   
 v
+```
 [root@localhost roror]# echo "vi='vim'" >> ~/.bashrc   
 [root@localhost roror]# source ~/.bashrc   
 [root@localhost roror]# vi /etc/passwd   
-   
+   ```
+   ```
 :q 빠져나가기   
 #vimtutor   
 #cd   
 #ls 해서 vimtest.txt 있는지 확인   
-   
+ 
 esc 누르면 노말 모드 빠져나가기 머안되면 esc   
 ctl +v 노말 블록   
 dd 한달락삭제   
@@ -121,8 +124,9 @@ dd 한달락삭제
 :q 나가기   
 :wq! (저장하고 강제로 나가라)   
 :wq (저장하고 나가라)   
-   
+ ```  
 커서 이동하기 외워야하는것   
+```
 w ^ $ 0 G nG gg Ctrl+b Ctrl+f e b   
 w: 워드단위   
 b: w 반대   
@@ -131,17 +135,17 @@ Ctrl +b:밑으로올라가고
 Ctrl +f: 위로올라가고   
 $:개행 맨끝으로   
 ^:개행 맨앞으로   
-   
+   ```
 
-입력모드 전환   
-   
+## 입력모드 전환   
+``` 
 i a o  I A O    
 i: 삽입   
 a: 삽입하면서 입력전환   
 o: 밑에쓰게   
-   
-복사 및 붙이기 & 삭제하기   
-   
+```
+## 복사 및 붙이기 & 삭제하기   
+```  
 yy또는 y  : 그줄 복사   
 p: 붙여넣기   
 x 또는 dl   
@@ -149,8 +153,10 @@ dd: 지우기
 dw   
 d& 또는 D   
 shift +d :그뒤에꺼 숨기기   
-   
-찾기   
+```
+##찾기   
+```
 / :찾기   
 r: 한글자만 바꾼다   
 j: 현재라인과 다음라인을 바꿔준다   
+```
