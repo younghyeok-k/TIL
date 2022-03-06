@@ -100,7 +100,7 @@ Set root password? [Y/n] Y
 -뒤에 나머지는 전부 Y 후 마무리한다.
 ```
 
-## DB 접속 방법
+## DB 접속 방법(mariaDB)
 ----------------------
 ```
 # mysql -u -root -p'비번'
@@ -121,7 +121,10 @@ character-set-server = utf8mb4
 default-character-set = utf8mb4
 
 # systemctl restart mariadb
-
+```
+# PHP 설치
+-----------------
+```
 -PHP 설치            tomcat(jsp) --->apm +tomcat
 "etc/my.cnf.d/charset.cnf"
 
@@ -141,13 +144,17 @@ short_open_tag=Off -> On (187번째)(php 구문 시작 </php 끝은 ?> 끝난다
 # echo "<? phpinfo(); ?>" > /var/www/html/info.php
 확인
 http://192.168.123.200/info.php
-
 # dnf install php-gd
 # dnf install php-devel
 
 # systemctl restart httpd
 # systemctl restart php-fpm
 
+```
+
+## 그누보드 PHP 서버 연동
+-------------------
+```
 -sir.kr(그누보드,소스공개)
 .tar 다운받기
 # tar xvfz  gnuboard5-5.5.3.tar.gz  -C /var/www/html/
