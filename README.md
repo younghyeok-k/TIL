@@ -16,7 +16,7 @@
 * [Linux Day8](https://github.com/younghyeok-k/TIL/blob/main/Linux/week5.md)
 * [Linux Day9](https://github.com/younghyeok-k/TIL/blob/main/Linux/week5-2.md)
 * [Linux Day10](https://github.com/younghyeok-k/TIL/blob/main/Linux/week6.md)
-* [Linux Day10](https://github.com/younghyeok-k/TIL/blob/main/Linux/week6-2.md)
+* [Linux Day11](https://github.com/younghyeok-k/TIL/blob/main/Linux/week6-2.md)
 
 
 
