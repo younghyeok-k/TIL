@@ -22,7 +22,7 @@ Well-known prot 0~1023
 22--> HTTP 이런식으로 사용불가.   
 22--> SSH(애플리케이션 계층)   
 
-## apache
+## Apache 설치
 ------
 -Rocky
 
@@ -122,7 +122,7 @@ default-character-set = utf8mb4
 
 # systemctl restart mariadb
 ```
-# PHP 설치
+## PHP 설치
 -----------------
 ```
 -PHP 설치            tomcat(jsp) --->apm +tomcat
