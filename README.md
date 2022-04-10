@@ -27,3 +27,8 @@
 * [Kotlin Day1](https://github.com/younghyeok-k/TIL/blob/main/Kotlin/Kotlinday1.md)
 * [Kotlin Day2](https://github.com/younghyeok-k/TIL/blob/main/Kotlin/Kotlinday2.md)
 * [Kotlin Study1](https://github.com/younghyeok-k/TIL/blob/main/Kotlin/Kotilnstudy1.md)
+
+## DB Design
+* [DB Day1](https://github.com/younghyeok-k/TIL/blob/main/DB Design/DB1.md)
+* [DB Day2](https://github.com/younghyeok-k/TIL/blob/main/DB Design/DB2.md)
+* [DB Day3](https://github.com/younghyeok-k/TIL/blob/main/DB Design/DB3.md)
