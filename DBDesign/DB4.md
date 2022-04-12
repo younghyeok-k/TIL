@@ -1,3 +1,24 @@
+Query
+  - DB에 저장된 데이터를 조회 또는 수정하기 위한 질의문
+  - SQL(Structured Query Language), QBE(Query By Example)
+  - MS Access의 쿼리 구조
+
+선택(조회) 쿼리
+- 단순 조회 쿠리
+Select
+- 요약 조회 쿼리
+집계 함수 사용(Group By)
+실행 쿼리(수정 or 갱신) 쿼리
+- 스키마 변경
+Create Table
+Drop Table, Alter Table(다루지 않음)
+- 인스턴스 변경
+Insert, Update, Delete
+
+
+-------------------------
+
+
 Round ,&
 등락률: Round(100*([등락폭]/[전일종가]),2) & "%"
 
