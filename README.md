@@ -32,3 +32,4 @@
 * [DB Day1](https://github.com/younghyeok-k/TIL/blob/main/DBDesign/DB1.md)
 * [DB Day2](https://github.com/younghyeok-k/TIL/blob/main/DBDesign/DB2.md)
 * [DB Day3](https://github.com/younghyeok-k/TIL/blob/main/DBDesign/DB3.md)
+* [DB Day3](https://github.com/younghyeok-k/TIL/blob/main/DBDesign/DB4.md)
