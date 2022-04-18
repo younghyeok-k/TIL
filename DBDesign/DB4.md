@@ -51,7 +51,7 @@ Ex) Like “?en*” → center, send, …
 Ex) Like “[a-c]an” → ban, can, …
 
 Ex)저자명이 “이OO”이거나 도서명이 “다” 로 끝나는 도서를 출력하시오.
--  Like "이*" or  Like "*다"
+-  Like "이??" or  Like "*다"
 
 Ex)“드라마” 장르의 영화 중 “조승우“ 또는 “수애＂가 주연한 영화의 제목, 감독, 주연만 출력하시오.
 -  Like "*조승우*" Or Like "*수애*"
