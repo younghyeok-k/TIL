@@ -59,4 +59,63 @@ Ex) [비디오목록관리] 테이블에서 장르가 “호러” 또는 “스
 
 ![image](https://user-images.githubusercontent.com/97229292/163900261-5f102028-89fc-49c0-8a33-a80b3482f36e.png)
 
+Ex) [도서목록관리] 테이블에서 2007년 2월 1일부터 나온 모든 책의 소비자 가격을 10% 인상하시오
+[소비자가격]=[소비자가격]*1.1
+![image](https://user-images.githubusercontent.com/97229292/163900943-559b04d3-c5b8-47e0-a5ac-c014c507087c.png)
+
+Ex) 과목 키워드와 교수명을 매개변수로 입력받아서, 해당 키워드를 포함하는 과목의 담당교수를 입력받은
+![image](https://user-images.githubusercontent.com/97229292/163901596-f3e65766-ce65-4124-8442-d2b656075420.png)
+
+
+## 레코드 삭제
+------------------------
+#### - 테이블에 존재하는 레코드를 삭제함
+#### - 조건을 설정하지 않으면 전체 레코드가 삭제됨
+
+
+Ex) [도서목록관리] 테이블에서 소비자 가격이 10,000원 미만인 모든 도서를 삭제함
+![image](https://user-images.githubusercontent.com/97229292/163901851-79abd853-66af-40ee-928c-4190e352aba9.png)
+
+Ex) [사용후기] 테이블에서 금칙어를 매개변수로 입력받아, 해당 카워드를 포함하는 제목의 글을 삭제하시오
+![image](https://user-images.githubusercontent.com/97229292/163902045-665c1788-4da3-4941-a1f3-1a9216f234a2.png)
+
+
+
+## 요약 쿼리
+------------------------------------------------
+#### - 합계, 평균, 최대, 최소, 개수 등의 통계치 생성
+#### - SQL의 GROUP BY 명령어에 해당
+
+Ex) [학생신상], [성적관리] 테이블에서 학과별 / 학사상태별 중간고사 평균 조회
+![image](https://user-images.githubusercontent.com/97229292/163902851-426b6895-fb54-4fbd-8245-06ecdf1eae07.png)
+
+## Sub-Query
+------------------------------------------------
+#### - 다른 쿼리의 내부에 포함된 쿼리
+![image](https://user-images.githubusercontent.com/97229292/163902898-dd50be78-517f-44fb-be8f-5c5e7cc6753b.png)
+
+
+##### Motivating Example ([학생신상] 테이블)
+
+Ex) 학번이 “05454” 인 학생보다 이후에 태어난 학생의 학번, 이름, 생일을 출력하시오.
+학번이 “05454” 인 학생의 생년월일은? → “1986-02-01”
+“1986-02-01” 이후에 태어난 학생의 학번, 이름, 생일은?
+
+
+![image](https://user-images.githubusercontent.com/97229292/163903314-737b0cf0-028b-4005-bebf-bb3dcf53f390.png)
+
+![image](https://user-images.githubusercontent.com/97229292/163903718-bb58d1ee-569c-494a-8253-74f65ffed331.png)
+
+
+#####  - Sub-Query를 이용하여 하나의 쿼리로 구성하는 경우
+##### - Sub-Query 를 먼저 생성한 후, 이를 포함하여 Main Query를 생성함
+- 
+![image](https://user-images.githubusercontent.com/97229292/163903936-4ea525ec-225a-42aa-9988-084a0c3998ca.png)
+
+![image](https://user-images.githubusercontent.com/97229292/163904500-04b395d8-4563-4bb9-8d2a-c4d2f7189df2.png)
+
+
+Ex) [학생신상], [성적관리] 테이블을 이용하여, 중간고사의 평균을 소수점 둘째자라까지 나타내시오.
+
+
 
