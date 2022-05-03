@@ -50,8 +50,35 @@
   - 폼의 레코드 원본을 [이력서]로 연결
   - 토글 버튼 컨트롤 추가
   - 컨트롤 원본으로 취업여부 필드 연결
+  - 
+![image](https://user-images.githubusercontent.com/97229292/166393106-d63cc369-f2a9-4002-94c5-c62f3cc80d83.png)
+
 ![image](https://user-images.githubusercontent.com/97229292/166391674-46e9a7b1-de62-4ecf-aef4-2261187e3757.png)
+#### 옵션 버튼
+- 여러 항목 중 하나의 항목만을 선택할 때 사용
+- 무엇들 중 하나를 선택해야 하는지 범위 지정 필요
+ - 옵션 그룹 생성 → 옵션
+- 예) [이력서] 테이블의 성별 필드
+  - 남자 = 0, 여자 = 1
+  - 컨트롤 마법사를 사용하여 옵션 그룹 생성
+![image](https://user-images.githubusercontent.com/97229292/166393720-8627f86b-a36e-4d6d-9fe5-37e8dca31bbe.png)
 
 
+![image](https://user-images.githubusercontent.com/97229292/166393772-321d916c-dc45-43cd-88a3-78ed4e7ef8e5.png)
+
+- [간략학생정보] 테이블에 대해 다음의 폼을 작성하시오.   
+등록여부 : Yes / No   
+학생구분 : 1(재학생), 2(졸업생), 3(휴학생)   
+
+
+![image](https://user-images.githubusercontent.com/97229292/166393973-cbcaa882-e943-4ab5-9ce3-3c6471079a10.png)
+
+#### 콤보 박스
+- 리스트 박스 + 텍스트 박스의 형태
+- 미리 정의된 리스트로부터 입력값을 선택하거나 직접 입력할 수 있는 컨트롤
+- 리스트 정의
+ - 기존의 테이블 또는 쿼리 사용 OR  컨트롤 생성 시 새로 지정
+ - 예) [직종분류] 테이블의 직종 필드에서 값을 받아서 [이력서] 테이블의 직종분류 필드에 저장
+![image](https://user-images.githubusercontent.com/97229292/166394019-b13d158b-3049-44a6-9a8d-b41549f9022f.png)
 
 
