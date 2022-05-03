@@ -34,3 +34,24 @@
 ### 컨트롤
 - 폼에서 데이터의 입력, 출력, 매크로 및 폼 실행 등에 사용되는 객체
 ![image](https://user-images.githubusercontent.com/97229292/166390771-23106474-81ef-4fcf-acd7-68107393333c.png)
+
+![image](https://user-images.githubusercontent.com/97229292/166391581-fb71eba5-bcf4-4694-a42a-8014d302718e.png)
+
+![image](https://user-images.githubusercontent.com/97229292/166391586-1ef1125c-f927-43c7-9518-5b0518ce2037.png)
+#### 체크 박스
+- Yes / No 타입의 필드와 연결하여 사용
+- 기존 필드 추가로 Yes / No 필드 추가 시 자동으로 체크 박스가 생성됨
+- 예) [이력서] 테이블의 취업여부 필드
+![image](https://user-images.githubusercontent.com/97229292/166391606-43a7b15f-9f2c-40c6-b518-ce407375472a.png)
+#### 토글 버튼
+- 체크 박스와 동일한 기능 수행
+- Yes / No 필드와 연결하여 사용
+- 예) [이력서] 테이블의 취업여부 필드
+  - 폼의 레코드 원본을 [이력서]로 연결
+  - 토글 버튼 컨트롤 추가
+  - 컨트롤 원본으로 취업여부 필드 연결
+![image](https://user-images.githubusercontent.com/97229292/166391674-46e9a7b1-de62-4ecf-aef4-2261187e3757.png)
+
+
+
+
