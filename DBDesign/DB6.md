@@ -79,6 +79,13 @@
 - 리스트 정의
  - 기존의 테이블 또는 쿼리 사용 OR  컨트롤 생성 시 새로 지정
  - 예) [직종분류] 테이블의 직종 필드에서 값을 받아서 [이력서] 테이블의 직종분류 필드에 저장
-![image](https://user-images.githubusercontent.com/97229292/166394019-b13d158b-3049-44a6-9a8d-b41549f9022f.png)
+![image](https://user-images.githubusercontent.com/97229292/166394411-4a23d619-1128-4cc3-8c6c-05c8d5de54ee.png)
+![image](https://user-images.githubusercontent.com/97229292/166394432-7ca0efaa-2c6a-4a12-ae68-9c8816c5c292.png)
 
+
+- [이력서] 테이블과 연결된 다음의 폼을 만드시오.
+ - 단 희망지역1, 희망지역2 는 서울, 경기, 충북, 충남, 강원 중 하나의 값을 선택할 수 있어야 함
+ - 콤보 박스의 리스트를 새로 생성
+
+![image](https://user-images.githubusercontent.com/97229292/166395585-97ceaaa0-50e3-4c50-9824-635836320d6f.png)
 
