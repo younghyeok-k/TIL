@@ -49,7 +49,7 @@
 ![image](https://user-images.githubusercontent.com/97229292/167521072-d2ec4f35-c2d6-401a-bdd4-d3774eacc915.png)
 
 ### 기타 디자인 요소
--배경 이미지
+- 배경 이미지
   - 형식 → 그림 → 파일 지정
   - 형식 → 그림 크기 조정 모드 → 원래 크기로
  
