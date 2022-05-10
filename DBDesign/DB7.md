@@ -99,8 +99,56 @@
 - [학생신상폼] 에서 [성적관리폼] 을 연결하는 명령 단추 생성
 
 ![image](https://user-images.githubusercontent.com/97229292/167523011-0620a020-acae-4e1c-a052-0fda5e1bb429.png)
-![image](https://user-images.githubusercontent.com/97229292/167523033-747b0ff4-36c9-40f5-8158-766b8f312f7f.png)
-![image](https://user-images.githubusercontent.com/97229292/167523051-59e8bba6-60d5-4702-9a97-5b56be774442.png)
 
+![image](https://user-images.githubusercontent.com/97229292/167523121-bb1cce6b-3663-4457-b881-e67e136821d4.png)
+![image](https://user-images.githubusercontent.com/97229292/167523125-d15e2bed-feed-43b8-812f-98108fa0926f.png)
 
+### 매개변수를 이용한 폼 열기
+- 간단한 방법 (Equal 조건만 적용 가능)
+
+![image](https://user-images.githubusercontent.com/97229292/167524142-c4a8a214-1755-40d6-9162-9ab4d96f7cbd.png)
+
+ - 복잡한 방법 (모든 조건 적용 가능 → 쿼리를 미리 생성함)
+![image](https://user-images.githubusercontent.com/97229292/167524180-1427848d-f273-497b-aeb0-0ef1e80d61f4.png)
+- [학번입력폼] 의 “신상조회“ 명령 단추 생성 (컨트롤 마법사 사용)
+![image](https://user-images.githubusercontent.com/97229292/167524213-d9b79e7b-d87b-47ca-aded-c679661a04bd.png)
+
+- 최종 결과
+![image](https://user-images.githubusercontent.com/97229292/167524232-b11efc15-e878-47e7-933b-f961e2824b78.png)
+
+### D. I. Y. – Very Difficult !!!
+- 매개변수로 학번을 입력 받아서, 해당 학생보다, 같거나 늦게 태어난 모든 학생의 정보를 출력하시오
+ ![image](https://user-images.githubusercontent.com/97229292/167525077-8825daf5-7b7a-430f-be64-74c22e769754.png)
+
+### Hint) 다음의 순서로 생성
+- 기준학번입력폼
+ - 학번 입력 용 텍스트 상자 생성
+- 생년월일조회쿼리
+ - 해당 학번 학생의 생년월일 조회
+- 신상조회쿼리
+ - 위의 생년월일보다 같거나 이후 조회
+- 학생조회폼
+ -신상조회쿼리 연결
+- 기준학번입력폼 수정
+
+폼 열기 버튼으로 학생조회폼 연결
+![image](https://user-images.githubusercontent.com/97229292/167527154-960301b3-3e87-40b8-9081-f17534e7d403.png)
+### 하위 폼
+- 연결된 폼을 새 폼이 아닌 기존 폼 내부에서 사용
+- 예) [학생신상] 테이블의 하위 폼으로 [성적관리] 테이블을 연결
+![image](https://user-images.githubusercontent.com/97229292/167527183-cf03dcb5-d91a-4bee-b26c-92bf4ede40aa.png)
+### D. I. Y.
+- [학생신상] 테이블과 [성적관리] 테이블을 활용하여 다음의 폼을 완성하시오.
+![image](https://user-images.githubusercontent.com/97229292/167527201-a13f9e3b-3cc0-4e7f-b339-2b68079bb4a2.png)
+
+### D. I. Y.
+   - 학번과 점수를 입력 받아서, 해당 학생이 해당 점수 이상 취득한 과목을 조회하는 폼을 생성하시오.
+   - [학생신상] 테이블과 [성적관리] 테이블을 활용
+![image](https://user-images.githubusercontent.com/97229292/167527217-313799fb-a239-41d9-a8ae-aaacd639c453.png)
+![image](https://user-images.githubusercontent.com/97229292/167528052-6ef63791-a18e-4751-a1db-70986ce61747.png)
+### D. I. Y.
+- 고객 ID와 대여 기간을 입력 받아서, 해당 고객이 해당 기간 중 대여한 DVD 의 내역을 조회하시오.
+  - 대여 기간은 rent-Date 기준
+- [tblCust] 테이블과 [tblRent] 테이블 활용
+![image](https://user-images.githubusercontent.com/97229292/167528260-d961be39-002c-4105-bdcd-f6648aa33d3b.png)
 
