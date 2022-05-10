@@ -26,3 +26,37 @@
 
 
 #### =IIf(Abs([지출]-[수입])>=50000,"고액","소액")
+
+
+### Functions
+![image](https://user-images.githubusercontent.com/97229292/167519757-56123f95-7496-4007-b80e-623ef6aea040.png)
+
+### 컨트롤 배치
+- 정렬 → 맞춤,  크기 / 공간 활용
+
+![image](https://user-images.githubusercontent.com/97229292/167520356-44572fa1-fc93-477f-bbed-68955156f4b4.png)
+
+![image](https://user-images.githubusercontent.com/97229292/167520318-f7fa2fc0-df32-4c62-ab18-8f6af84f8490.png)
+
+### (D. I. Y.) [선수] 테이블에 대해 다음의 폼을 작성하시오.
+- 배경 이미지, 특수 효과, 팝업 설정, 시작 폼 설정 등 적용 (뒷 페이지 참고)
+
+![image](https://user-images.githubusercontent.com/97229292/167520555-2c9b39c1-eaf1-450f-b54d-490831636258.png)
+
+### 기타 디자인 요소
+-배경 이미지
+ - 형식 → 그림 → 파일 지정
+ - 형식 → 그림 크기 조정 모드 → 원래 크기로
+ 
+- 특수 효과
+ - 각 컨트롤에 대해 마우스 우클릭
+
+- 팝업 설정
+    - 기타 → 팝업 → 예
+    - 형식 → 탐색 단추 → 아니오(탐색 바 제거)
+
+- 시작 폼 설정
+    - 파일 → 옵션 → 현재 데이터베이스 → 폼 표시 → 폼 지정
+
+
+
