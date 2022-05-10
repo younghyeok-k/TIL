@@ -63,5 +63,28 @@
 - 시작 폼 설정
      - 파일 → 옵션 → 현재 데이터베이스 → 폼 표시 → 폼 지정
 
+### 분할 표시 폼
+ - 폼과 테이블의 내용을 동시에 확인
+ - 형식 → 기본 보기 → 분할 표시 폼
+ - 형식 → 분할 표시 폼 방향
+
+→ 데이터 시트를 아래쪽에
+
+
+![image](https://user-images.githubusercontent.com/97229292/167521292-96f79364-95cf-4966-9e33-5a73bebecac9.png)
+![image](https://user-images.githubusercontent.com/97229292/167521337-d28c05c6-1483-4c0d-849b-fbe49b6616d3.png)
+![image](https://user-images.githubusercontent.com/97229292/167521390-f7614dfa-7247-455b-be1c-c455cb78fc04.png)
+
+### 명령 단추의 기능
+- 레코드 작업
+  - Search, Insert, Delete 등
+- 폼 작업
+  - Open, Close, Relaod, Print 등
+- 기타 작업
+  - OpenQuery, MessageBox 등
+
+- 이벤트 작성기를 통해 기능 정의 가능
+
+
 
 
