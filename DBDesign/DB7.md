@@ -87,4 +87,20 @@
 
 
 
+ ### [이력서] 테이블로부터 [간략정보] 폼 생성
+- “새 레코드 추가“ 버튼 생성 (컨트롤 마법사 사용)
+- “레코드 삭제“ 버튼 생성 (컨트롤 마법사 사용)
+![image](https://user-images.githubusercontent.com/97229292/167522541-34cc0795-8e28-428f-8fd3-8a967786d1df.png)
+![image](https://user-images.githubusercontent.com/97229292/167522887-2d4661b0-4c91-4698-897e-2b8a6c7a1362.png)
+
+### [학생신상폼] 에서 [성적관리폼] 열기
+- [학생신상] 테이블로부터 [학생신상폼] 생성
+- [성적관리] 테이블로부터 [성적관리폼] 생성
+- [학생신상폼] 에서 [성적관리폼] 을 연결하는 명령 단추 생성
+
+![image](https://user-images.githubusercontent.com/97229292/167523011-0620a020-acae-4e1c-a052-0fda5e1bb429.png)
+![image](https://user-images.githubusercontent.com/97229292/167523033-747b0ff4-36c9-40f5-8158-766b8f312f7f.png)
+![image](https://user-images.githubusercontent.com/97229292/167523051-59e8bba6-60d5-4702-9a97-5b56be774442.png)
+
+
 
