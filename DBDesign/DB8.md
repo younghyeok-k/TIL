@@ -43,6 +43,18 @@
 ![image](https://user-images.githubusercontent.com/97229292/168702222-7da33fb0-ae93-4751-bc3e-55da4c703b88.png)
 
 
+### 내장 매크로 vs. 독립 매크로
+
+![image](https://user-images.githubusercontent.com/97229292/168708259-4466f789-0a0a-492f-bdbb-7f5280ee1228.png)
+
+![image](https://user-images.githubusercontent.com/97229292/168708269-0a26094c-4519-4ee6-acf4-b6ddca2fbbec.png)
+
+### 서브 폼에서 이벤트 실행
+
+![image](https://user-images.githubusercontent.com/97229292/168708365-80b200e9-3f04-40ce-a19d-932733f105f8.png)
+
+![image](https://user-images.githubusercontent.com/97229292/168708379-2488ad4c-9ff2-4e97-82fa-4f08219d9304.png)
+
 
 
 
