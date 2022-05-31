@@ -61,5 +61,5 @@
 * LeanBack Library를 이용한 개발 경험
 * Jira, Slack, Git의 사용 경험이 있는 분
 
-
-#### * [Droid Knights](https://github.com/wasabeef/awesome-android-ui](https://sites.google.com/view/dk21)
+## 
+#### * [Droid Knights](https://sites.google.com/view/dk21)
