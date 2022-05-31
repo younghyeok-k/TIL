@@ -5,7 +5,7 @@
 ### 개발 라이브러리 및 도구
 #### * Retrofi, OKHttp3
 #### * RESTful API,HTTP API (Retrofit / OKHttp3)
-#### * Jetpack(room,Navigation-Fragment,viewModel,Binding,Compose),AAC
+#### * Jetpack(room,Navigation-Fragment,Compose,AAC(viewModel,Binding,LiveData))
 #### * [android awesome Android UI](https://github.com/wasabeef/awesome-android-ui)
 #### * Image (Picasso / Glide)
 #### * Firebase(FCM, GA 등)
