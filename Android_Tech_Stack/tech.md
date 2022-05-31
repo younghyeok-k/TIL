@@ -7,7 +7,7 @@ https://github.com/wasabeef/awesome-android-ui
 * Retrofi
 * RESTful API,HTTP API (Retrofit / OKHttp3)
 * Jetpack(room,Navigation-Fragment,viewModel)
-
+[android awesome Android UI]
 아키텍쳐 공부(디자인 패턴 ,mvp mvvm 
 
 
