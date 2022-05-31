@@ -4,6 +4,10 @@
 >이해한 만큼만 직접 작성  
 >찾기 쉽도록 해당 카테고리가 N개면 N개 모두에 추가
 ----------------------------------------------------------------------------------------------------------------------
+### Android Tech Stack
+* [Tech](https://github.com/younghyeok-k/TIL/blob/main/Linux/Linux-basic-command.md)
+
+
 ### Linux
 * [Linux basic command](https://github.com/younghyeok-k/TIL/blob/main/Linux/Linux-basic-command.md)
 * [Linux Day1](https://github.com/younghyeok-k/TIL/blob/main/Linux/week1.md)
