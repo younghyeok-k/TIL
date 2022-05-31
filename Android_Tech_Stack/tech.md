@@ -16,20 +16,9 @@
 
 
 
-드로이드 나이츠 
 
-
-
-## 취업 요구사항들 
+## Tech Stack
 ---------------------------------------------------------------------
-### 예)티빙
-* retrofit , okhttp3등을 서비스에 적용한 경험이 있는 분
-* coroutine, rxjava등을 이용한 비동기 처리 경험
-* clean architecture 설계와 디자인 패턴 적용 경험
-* LeanBack Library를 이용한 개발 경험
-* Jira, Slack, Git의 사용 경험이 있는 분
-
-
 ### Java Kotlin Android 기본기
 * Java or Kotlin 능숙
 * (Android Framework) 안드로이드 플랫폼에 대한 이해도를 가지신 분 : Kotlin (Java)
@@ -64,3 +53,13 @@
 * Android 최신 트렌드를 이용한 개발 경험 보유
 * 다른 팀원의 성장에 도움을 줄 수 있는 분
 * Debugging, Profiling 지식 및 경험
+
+### 예)티빙
+* retrofit , okhttp3등을 서비스에 적용한 경험이 있는 분
+* coroutine, rxjava등을 이용한 비동기 처리 경험
+* clean architecture 설계와 디자인 패턴 적용 경험
+* LeanBack Library를 이용한 개발 경험
+* Jira, Slack, Git의 사용 경험이 있는 분
+
+
+#### * [Droid Knights](https://github.com/wasabeef/awesome-android-ui](https://sites.google.com/view/dk21)
