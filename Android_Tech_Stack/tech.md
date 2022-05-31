@@ -8,7 +8,7 @@
 #### * Jetpack(room,Navigation-Fragment,Compose,AAC(viewModel,Binding,LiveData))
 #### * [android awesome Android UI](https://github.com/wasabeef/awesome-android-ui)
 #### * Image (Picasso / Glide)
-#### * Firebase(FCM, GA 등)
+#### * Firebase(FCM, GA 등),GCM
 #### * Corutine(Kotlin),Rxjava(JAVA)
 #### * MVC, MVP, MVVM
 #### * Dagger2 Hilt
