@@ -23,11 +23,11 @@
 ## 취업 요구사항들 
 ---------------------------------------------------------------------
 ### 예)티빙
-• retrofit , okhttp3등을 서비스에 적용한 경험이 있는 분
-• coroutine, rxjava등을 이용한 비동기 처리 경험
-• clean architecture 설계와 디자인 패턴 적용 경험
-• LeanBack Library를 이용한 개발 경험
-• Jira, Slack, Git의 사용 경험이 있는 분
+* retrofit , okhttp3등을 서비스에 적용한 경험이 있는 분
+* coroutine, rxjava등을 이용한 비동기 처리 경험
+* clean architecture 설계와 디자인 패턴 적용 경험
+* LeanBack Library를 이용한 개발 경험
+* Jira, Slack, Git의 사용 경험이 있는 분
 
 
 ### Java Kotlin Android 기본기
