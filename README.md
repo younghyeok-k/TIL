@@ -5,7 +5,7 @@
 >찾기 쉽도록 해당 카테고리가 N개면 N개 모두에 추가
 ----------------------------------------------------------------------------------------------------------------------
 ### Android Tech Stack
-* [Tech](https://github.com/younghyeok-k/TIL/blob/main/Aroid\Tech\stack/main.md)
+* [Tech](https://github.com/younghyeok-k/TIL/blob/main/Android\Tech\stack/main.md)
 
 
 ### Linux
