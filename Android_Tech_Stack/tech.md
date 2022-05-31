@@ -1,24 +1,22 @@
-android awesome Android UI
-https://github.com/wasabeef/awesome-android-ui
 
 
 
 ### 라이브러리 
-* Retrofi
+* Retrofi, OKHttp3
 * RESTful API,HTTP API (Retrofit / OKHttp3)
-* Jetpack(room,Navigation-Fragment,viewModel)
-[android awesome Android UI]
-아키텍쳐 공부(디자인 패턴 ,mvp mvvm 
+* Jetpack(room,Navigation-Fragment,viewModel,Binding)
+* [android awesome Android UI](https://github.com/wasabeef/awesome-android-ui)
+* Image (Picasso / Glide)
+
+
+
+### 필요한 
+ Firebase(FCM, GA 등)
 
 
 
 
 
-Jetpack(room,Navigation-Fragment,viewModel)
-
-Image (Picasso / Glide)
-
-FCM
 
 Corutine
 
