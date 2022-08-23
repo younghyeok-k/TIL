@@ -3,7 +3,7 @@
 >오늘 배운, 알게 된, 학습한 내용을 정리해두는 저장소  
 >이해한 만큼만 직접 작성  
 >찾기 쉽도록 해당 카테고리가 N개면 N개 모두에 추가
->(https://younghyeok.tistory.com/?page=1)
+>[티스토리](https://younghyeok.tistory.com/?page=1)
 ----------------------------------------------------------------------------------------------------------------------
 ### Android Tech Stack
 * [Tech](https://github.com/younghyeok-k/TIL/blob/main/Android_Tech_Stack/tech.md)
