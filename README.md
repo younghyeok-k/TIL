@@ -4,10 +4,10 @@
 >이해한 만큼만 직접 작성  
 >찾기 쉽도록 해당 카테고리가 N개면 N개 모두에 추가   
    
-### [younghyeok-tistory](https://younghyeok.tistory.com/?page=1)
+### 블로그  [younghyeok-tistory](https://younghyeok.tistory.com/?page=1)
 ----------------------------------------------------------------------------------------------------------------------
 ### Android Tech Stack
-* 블로그  [Tech](https://github.com/younghyeok-k/TIL/blob/main/Android_Tech_Stack/tech.md)
+*  [Tech](https://github.com/younghyeok-k/TIL/blob/main/Android_Tech_Stack/tech.md)
 
 
 ### Linux
