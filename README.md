@@ -7,7 +7,7 @@
 ### [younghyeok-tistory](https://younghyeok.tistory.com/?page=1)
 ----------------------------------------------------------------------------------------------------------------------
 ### Android Tech Stack
-* [Tech](https://github.com/younghyeok-k/TIL/blob/main/Android_Tech_Stack/tech.md)
+* 블로그  [Tech](https://github.com/younghyeok-k/TIL/blob/main/Android_Tech_Stack/tech.md)
 
 
 ### Linux
