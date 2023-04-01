@@ -6,7 +6,7 @@
    
 ## 블로그 [younghyeok-tistory](https://younghyeok.tistory.com/?page=1)
 ----------------------------------------------------------------------------------------------------------------------
-###-Android Tech Stack
+### Android Tech Stack
 *  [Tech](https://github.com/younghyeok-k/TIL/blob/main/Android_Tech_Stack/tech.md)
 
 
