@@ -43,5 +43,3 @@
 * [DB Day6](https://github.com/younghyeok-k/TIL/blob/main/DBDesign/DB6.md)
 * [DB Day7](https://github.com/younghyeok-k/TIL/blob/main/DBDesign/DB7.md)
 * [DB Day8](https://github.com/younghyeok-k/TIL/blob/main/DBDesign/DB8.md)
-
-## 정보처리기사
