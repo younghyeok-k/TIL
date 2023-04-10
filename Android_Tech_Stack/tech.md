@@ -3,7 +3,7 @@
 
 
 ### 개발 라이브러리 및 도구
-#### * Retrofi, OKHttp3
+#### * Retrofit, OkHttp3
 #### * RESTful API,HTTP API (Retrofit / OKHttp3)
 #### * Jetpack(room,Navigation-Fragment,Compose,AAC(viewModel,Binding,LiveData))
 #### * [android awesome Android UI](https://github.com/wasabeef/awesome-android-ui)
