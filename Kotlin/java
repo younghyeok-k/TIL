@@ -1,0 +1,25 @@
+                  // 비밀번호 오류 시 처리
+                    if (errorMessage.contains("아이디 또는 비밀번호가 잘못되었습니다")) {
+                        System.out.println("Error: Incorrect ID or Password. Attempt #" + attempt); // 비밀번호 오류 출력
+                        if (attempt == MAX_LOGIN_ATTEMPTS) {
+                            System.out.println("Error: Account locked after 5 incorrect attempts."); // 5회 오류 시 계정 잠금 출력
+                            break; // 계정 잠금 후 종료
+                        }
+                    }
+                    // 다른 IP에서 중복 접속 시 처리
+                    else if (errorMessage.contains("다른 IP에서 접속 중")) {
+                        System.out.println("Error: Session already active from another IP. Checking via API."); // 다른 IP에서 세션 활성화 확인
+                        
+                        // API 호출을 통해 중복 세션 확인
+                        if (checkOtherIpSession(playwright, username)) {
+                            System.out.println("Session from different IP detected. Handle accordingly."); // 다른 IP에서 세션이 활성화된 경우 처리
+                        } else {
+                            System.out.println("No session conflict detected from other IP."); // 다른 IP에서 세션이 활성화되지 않은 경우
+                        }
+                        break;
+                    }
+                    // 기타 에러 처리
+                    else {
+                        System.out.println("Unknown error occurred: " + errorMessage); // 알 수 없는 에러 처리
+                        break;
+                    }
